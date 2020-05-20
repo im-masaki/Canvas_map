@@ -1,0 +1,29 @@
+body {
+	margin:0;
+	padding:0;
+}
+#map {
+	position: absolute;
+  top: 0x;
+  bottom: 124px;
+  left: 3px;
+	width : 500px;
+  height: 500px;
+}
+
+/* タイトル */
+h1{
+  font-size: 25px;
+  margin: 20px 20px 20px;
+  font-weight: bold;
+}
+
+.text {
+  margin: 5px 10px;
+}
+
+#drowarea{
+  width: 500px;
+  height: 500px;
+  border: 3px solid blue;
+}
